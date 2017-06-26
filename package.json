@@ -1,0 +1,26 @@
+{
+  "name": "@jorgemadson/nodeficando",
+  "version": "1.0.0",
+  "description": "aprendendo node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Jorge Madson",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgeMadson/nodeficando.git"
+  },
+  "keywords": [
+    "node;",
+    "freecodecamp"
+  ],
+  "bugs": {
+    "url": "https://github.com/JorgeMadson/nodeficando/issues"
+  },
+  "homepage": "https://github.com/JorgeMadson/nodeficando#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
