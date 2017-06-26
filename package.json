@@ -1,5 +1,5 @@
 {
-  "name": "@jorgemadson/nodeficando",
+  "name": "nodeficando",
   "version": "1.0.3",
   "description": "aprendendo node",
   "main": "index.js",
@@ -22,5 +22,6 @@
   "homepage": "https://github.com/JorgeMadson/nodeficando#readme",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "devDependencies": {}
 }
