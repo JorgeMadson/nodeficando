@@ -1,6 +1,6 @@
 {
   "name": "@jorgemadson/nodeficando",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "aprendendo node",
   "main": "index.js",
   "scripts": {
