@@ -1,6 +1,6 @@
 {
   "name": "nodeficando",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "aprendendo node",
   "main": "index.js",
   "scripts": {
@@ -19,9 +19,5 @@
   "bugs": {
     "url": "https://github.com/JorgeMadson/nodeficando/issues"
   },
-  "homepage": "https://github.com/JorgeMadson/nodeficando#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
-  "devDependencies": {}
+  "homepage": "https://github.com/JorgeMadson/nodeficando#readme"
 }
